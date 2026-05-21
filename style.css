@@ -479,6 +479,10 @@ button {
   margin-bottom: 64px;
 }
 
+.section__header--spaced {
+  margin-top: 4rem;
+}
+
 .section__tag {
   display: inline-block;
   font-family: var(--font-mono);
